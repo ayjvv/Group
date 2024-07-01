@@ -44,4 +44,5 @@
 
 ## 작업물
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) [피그마 보러가기](https://www.figma.com/design/gHJ9L2lubREn8KTOxCNtAf/%EB%A7%90%EC%97%86%EB%8A%94-%EC%9D%80%ED%95%98%EC%88%98%EC%97%90-%ED%95%80-%EB%84%A4%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84-%2F-%EB%B7%B0%EB%A6%BF-%EB%94%94%EC%9E%90%EC%9D%B8?node-id=0-1&t=47Tl9kY6QlN0UPNP-0)  
+
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) [Beaurit 보러가기](http://127.0.0.1:5500/Beaurit/index.html)
