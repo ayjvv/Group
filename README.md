@@ -25,6 +25,6 @@
 # <h1>🖥️뷰릿 사이트🖥️</h1>
 
 ## 팀
-![오렌지원](2.자바스크립트-Beaurit 팀프로젝트/images/orange-circle.png)
+![보라원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
 
 팀- 선정사이트, 목표- 툴,스킬 작업물(피그마,사이트)
