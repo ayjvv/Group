@@ -25,6 +25,10 @@
 # <h1>🖥️뷰릿 사이트🖥️</h1>
 
 ## 팀
-![보라원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 말없는 은하수에 핀 네잎클로버: 안윤지, 이진선, 이혜수
+
+## 리더
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 이진선  
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 기술리더 - 안윤지
 
 팀- 선정사이트, 목표- 툴,스킬 작업물(피그마,사이트)
