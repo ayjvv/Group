@@ -1,6 +1,6 @@
 ## Team Project
 
-<h1>📱UI/UX 디자인 아트보다📱</h1>
+<h1>📱UI/UX 디자인 아트보다📱</h1>  
 ## 팀
 ![보라원](1.UI,UX디자인-artboda팀프로젝트/images/purple-circle.png) 네잎클로버: 공한나, 송예슬, 안윤지, 하은혜
 ## 팀리더
