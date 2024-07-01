@@ -3,7 +3,7 @@
 
 ## 팀
 ![보라원](1.UI,UX디자인-artboda팀프로젝트/images/purple-circle.png) 네잎클로버: 공한나, 송예슬, 안윤지, 하은혜
-## 팀리더
+## 팀 리더
 ![보라원](1.UI,UX디자인-artboda팀프로젝트/images/purple-circle.png) 안윤지
 
 ## 선정사이트
@@ -30,19 +30,19 @@
 ## 팀
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 말없는 은하수에 핀 네잎클로버: 안윤지, 이진선, 이혜수
 
-## 리더
-![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 이진선  
+## 팀 리더
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 리더 - 이진선  
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 기술리더 - 안윤지
 
 ## 선정사이트
-![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) [뷰릿 보러가기](https://beaurit.net/)  
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) [뷰릿](https://beaurit.net/)  
 
 ## 목표
-![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) <strong>“시선을 사로잡을 수 있는 반응형 웹페이지 기능을 구현 하는 것”</strong> 입니다.
 
 ## Tool
-![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) Figma, Photoshop, VSCode
 
 ## 작업물
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)  
-![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) [Beaurit 보러가기]
