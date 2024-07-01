@@ -22,7 +22,7 @@
 
 - - - -   
 
-# <h1>🖥️뷰릿 사이트🖥️</h1>
+# <h1>🖥️웹 프로젝트 Beaurit🖥️</h1>
 
 ## 팀
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 말없는 은하수에 핀 네잎클로버: 안윤지, 이진선, 이혜수
@@ -31,4 +31,15 @@
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 이진선  
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 기술리더 - 안윤지
 
-팀- 선정사이트, 목표- 툴,스킬 작업물(피그마,사이트)
+## 선정사이트
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) [뷰릿 보러가기]([https://www.figma.com/design/6BDxDXycL2p5GzuZ5MmI5O/%EB%84%A4%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84-%2F-UIUX-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%80-](https://beaurit.net/))
+
+## 목표
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
+
+## Tool
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
+
+## 작업물
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
