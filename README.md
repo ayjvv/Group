@@ -32,7 +32,7 @@
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) 기술리더 - 안윤지
 
 ## 선정사이트
-![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) [뷰릿 보러가기]([https://www.figma.com/design/6BDxDXycL2p5GzuZ5MmI5O/%EB%84%A4%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84-%2F-UIUX-%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%80-](https://beaurit.net/))
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png) [뷰릿 보러가기](https://beaurit.net/)  
 
 ## 목표
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
@@ -41,5 +41,5 @@
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
 
 ## 작업물
-![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
+![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)  
 ![오렌지 원](1.UI,UX디자인-artboda팀프로젝트/images/orange-circle.png)
