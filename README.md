@@ -2,7 +2,7 @@
 ## 팀
 ![메인컬러](1.UI,UX디자인-artboda팀프로젝트/images/purple-circle.png) 네잎클로버: 공한나, 송예슬, 안윤지, 하은혜
 ## 팀리더
-- 안윤지
+![메인컬러](1.UI,UX디자인-artboda팀프로젝트/images/purple-circle.png) 안윤지
 
 
 선정사이트, 목표- 툴, 스킬, 작업물(피그마,와이어, 프로토)
