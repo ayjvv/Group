@@ -1,4 +1,5 @@
-## Team Project  
+## Team Project
+
 # <h1>📱UI/UX 디자인 아트보다📱</h1>  
 
 ## 팀
